@@ -1,0 +1,5 @@
+com\mycompany\sockettcp\Servidor.class
+com\mycompany\sockettcp\Cliente.class
+com\mycompany\sockettcp\Conexao.class
+com\mycompany\sockettcp\Executor.class
+com\mycompany\sockettcp\Pessoa.class
